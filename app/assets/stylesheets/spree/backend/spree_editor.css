@@ -1,5 +1,5 @@
 /*
- *= require spree/backend
+ *= require admin/spree_backend
 */
 
 form.edit_product div.left { width: 67%; }
